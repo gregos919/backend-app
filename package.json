@@ -1,0 +1,27 @@
+{
+  "name": "backend-app",
+  "version": "1.0.0",
+  "description": "Backend api",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-validator": "^5.3.1",
+    "nodemon": "^1.18.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregos919/backend-app.git"
+  },
+  "author": "Stjepan Grego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregos919/backend-app/issues"
+  },
+  "homepage": "https://github.com/gregos919/backend-app#readme"
+}
